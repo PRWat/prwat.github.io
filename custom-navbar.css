@@ -1,0 +1,18 @@
+.custom-navbar {
+	background-color: #AEAEAE;
+	border-color: #7C7C7C;
+	min-height: 96px;
+}
+
+.custom-brand {
+	padding: 0px;
+	padding-right: 15px;
+}
+
+.custom-navbar2{
+	padding-top: 48px;
+}
+
+.custom-active{
+	background-color: #D0D0D0 !important;
+}
