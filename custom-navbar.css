@@ -16,3 +16,12 @@
 li.active a{
 	background-color: #D0D0D0 !important;
 }
+
+.custom-main {
+    background-image: url("irezumi2large50percent.png");
+    min-height:1405px;
+}
+
+.jumbotron{
+    background-color: transparent;
+}
