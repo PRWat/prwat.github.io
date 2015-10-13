@@ -9,6 +9,7 @@ $(document).ready(function () {
         var clickedElement = $(this).attr("id");
         $("#navbar ul li").removeClass("active");
         $(this).addClass("active");
+        $("#maincontent").load(clickedElement + ".html");
         //alert(clickedElement);
         return false;
     });
