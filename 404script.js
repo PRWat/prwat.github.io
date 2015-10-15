@@ -6,6 +6,6 @@
 */
 
 $(document).ready(function () {
-    alert("DOOP");
+    location.replace("index.html#404");
 
 });
