@@ -6,6 +6,6 @@
 */
 
 $(document).ready(function () {
-    location.replace("hrrp://prwat.github.io/index.html#404");
+    location.replace("http://prwat.github.io/index.html#404");
 
 });
