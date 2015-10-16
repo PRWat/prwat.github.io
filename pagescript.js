@@ -23,7 +23,11 @@ $(document).ready(function () {
         $(this).addClass("active");
         $("#maincontent").load(clickedElement + ".html");
         //alert(clickedElement);
-        return false;
+        //return false;
     });
 
 });
+
+//TO DO:
+//FIND OUT WHY CLICKING THE BUTTONS ISN'T CHANGING THE URL ANCHOR
+//
